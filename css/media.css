@@ -1,0 +1,288 @@
+@media (max-width:768px)
+{
+    .navbar2{
+        Padding : 13px 0px;
+    }
+    .navbar-header2 .navbar-toggle2
+    {
+        margin-right:30px
+    }
+    .imgback{
+       
+        background-position:left top;
+    }
+    .imgback .pad{
+        padding-top:100px;
+        padding-bottom:150px;
+    }
+   
+    .Lorem{
+        Font-family: Assistant;
+        Font-style: Regular;
+        Font-size: 14px;
+  
+    }
+    .arrivals{
+        color:#344942;
+        font-family:   Delius;
+        font-style: Regular;
+        font-size:35px;
+      
+    }
+    .dimg{
+        font-size:9px
+    }
+ 
+    .contactuse{
+        font-size:11px;
+        
+    }
+    .liner{
+        margin-left: 10px;
+        width:40px
+    }
+    .divcontact .lor{
+        height: 150px;
+        overflow: auto;       
+        font-size: 15px;
+        opacity: 1;
+         color:rgba(52, 73, 66, 0.71)
+    }
+    .imgback .paragraph1{
+      
+        Font-size: 30.83px;
+       
+    }
+    .contentext{
+        font-size: 22px;
+    }
+     /*---------Bulk------------*/
+    .Bul ,.Hol{
+        padding-left: 10px;
+    }
+   
+    div .bulkprod .broduc{
+        Font-size: 28px;   
+    }
+   
+    .ab2 .lead{ 
+   
+        Font-size: 20px;
+   }
+   .abtop{
+    margin-top:0px
+    }
+    .ab2{
+        margin-top: 70px;
+    }
+    .ab2 .loremparagraph {
+       Font-size: 15px;
+    }
+    .ab2 img {
+        border-radius: 24px;
+        box-shadow: 20px -20px  rgba(107, 189, 70, 0.25)   ;
+    }
+    .ab2 .img2{
+        border-radius: 24px;
+        box-shadow: -20px -20px  rgba(107, 189, 70, 0.25)   ;
+    }
+    .arrow , .arrow2{
+      
+        top:37px
+    }
+    .phot{
+        margin-top:40px;
+    }
+ 
+    /*---------------------contact----------*/
+    .ab3 .lead{
+        font-size:20px;
+        margin-top: -40px;
+    }
+    .milelocation
+{
+    box-shadow: 20px -20px #F1F3EF;
+  
+}
+div .navg2{
+    margin-bottom: 0px;
+}
+.Bulcon2
+{
+    margin-left: 0px;
+    padding-left: 0px;
+    font-size: 23px;
+}
+.dict1 , .dict2 , .dict3 , .dict4{
+    
+   
+    background-position:center;
+   
+}
+}
+@media (min-width:1024px)
+{
+    .divphone{
+        margin-top:120px
+    }
+    .twopart2 div{
+        position: relative;
+        top:-90px
+    }
+   
+}
+@media (width:768px)
+{
+    div .ltop{
+        position: relative;
+        top:100px
+    }
+    .lower .follo{
+            font-size: 13px;
+            color:black
+    }
+    .square .imgphone
+    {
+       margin-top:120px
+    }
+    .ph1 ul li{
+        margin-right: 10px;
+        border-right: 1px solid black;
+        padding-right:15px;
+        padding-left:10px;
+        text-align: center;
+        font-size: 17px;
+    }
+    .ph1 .jocely
+    {
+        font-size: 22px;
+        font-weight: bold;
+    }
+   
+}
+@media (width:820px)
+{
+    div .ltop{
+        position: relative;
+        top:50px
+    }
+    .lower .follo{
+        font-size: 13px;
+        color:black
+}
+    .ph1 ul li{
+        margin-right: 10px;
+        border-right: 1px solid black;
+        padding-right:15px;
+        padding-left:10px;
+        text-align: center;
+        font-size: 17px;
+    }
+   .dimg .star
+   {
+       font-size:13px
+   }
+   .square .imgphone
+   {
+      margin-top:120px
+   }
+   .ab2 .loremparagraph {
+    Font-size: 15px;
+ }
+ .ab2 .img2 , .ab2 img
+ {
+     margin-top:70px
+ }
+ .arrow , .arrow2{
+      
+    top:10px
+}
+.ab3 .lead , .ab2 .lead{
+    font-size: 20px;
+}
+.ph1 .jocely{
+    font-size: 20px;
+}
+.imgback{
+       
+    background-position:left top;
+}
+.Bulcon2
+{
+   width:1000px;
+    font-size: 40px;
+}
+.Hol{
+    width:600px;
+    font-size: 30px;
+}
+}
+
+
+@media (width:912px)
+{
+    .square .imgphone
+    {
+       margin-top:120px
+    }
+    .ph1 ul li{
+        margin-right: 10px;
+        border-right: 1px solid black;
+        padding-right:15px;
+        padding-left:10px;
+        text-align: center;
+        font-size: 17px;
+    }
+    .ph1 .jocely
+    {
+        font-size: 22px;
+        font-weight: bold;
+    }
+   .dimg .star
+   {
+       font-size:13px
+   }
+   .ab2 .loremparagraph {
+    Font-size: 15px;
+ }
+   .ab2 .img2 , .ab2 img
+   {
+       margin-top:70px
+   }
+   .arrow , .arrow2{
+        
+      top:10px
+  }
+  .Bulcon2
+{
+  
+    font-size: 23px;
+}
+ div .ltop .lead{
+     font-size:25px
+ }
+}
+@media (width:280px)
+{
+    .ab3 .lead{
+        font-size:13px;
+        margin-top: -50px;
+    }
+ .milelocation h2{
+     font-size:24px
+ }
+ .lower .contactuse{
+     font-size:12px
+ }
+ .dimg span{
+    line-height: 20px;
+  }
+  .dimg p{
+      margin-top: 8px;
+  }
+ .dimg .tst
+ {
+     font-size:5px
+ }
+
+}

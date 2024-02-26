@@ -1,0 +1,758 @@
+
+body{
+    
+   padding: 0px;
+   margin: 0px;
+}
+.d-btn .btn
+{
+	transform: rotate(-90deg);
+	position: fixed;
+	bottom: 0px;
+	right:-50px;
+	font-size:16px;
+	z-index:2;
+
+}
+.d-btn .btn:focus
+{
+	outline: none;
+	
+}
+.navbar1{
+    padding-top: 10px;
+    border-radius: 0px;
+}
+
+.navbar-header1 .navbar-toggle1 {
+    background-color: #6BBD46;
+    color: black;
+    font-size:20px;
+    padding: 5px 10px;
+   
+   
+}
+
+.navbar-header2 .navbar-toggle2{
+    background-color: #eee;
+    color: black;
+    font-size:20px;
+    padding: 5px 10px;
+   
+   
+}
+
+.span2{
+    animation: left 1s ease;
+}
+
+.nav-link1 li a{
+    color:black;
+   text-align: center;
+    font-size: 18px;
+}
+.navbar2{
+    background-color: rgba(71, 66, 66, 0.40);
+    border-radius: 0px;
+    Padding : 13px 21px;
+   
+}
+.nav-link2 li a{
+    color:white;
+
+}
+.nav-link:hover{
+    color: #6BBD46;
+}
+ .nav-link.active{
+    color: #6BBD46;
+
+}
+.imgback{
+    background-image: url(../images/phbac.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.bacBulk{
+    background-image: url(../images/ph5.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+  
+
+}
+.bacph1{
+    background-image: url(../images/ph4.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.imgback .pad{
+    padding-top:150px;
+    padding-bottom:200px;
+}
+.bacBulk .pad{
+    padding-top:150px;
+    padding-bottom:200px;
+}
+
+.imgback .paragraph1{
+    
+    Font-family: Delius;
+    Font-style: Regular;
+    Font-size: 48.83px;
+    Line-height: 63px;
+    Line-height: 130%;
+    text-Align: Center;
+    Vertical-align: Center;
+    color:white;
+    padding:5px
+}
+.imgback .paragraph2
+{
+  Font-family: Assistant;
+  Font-style: Regular;
+  Font-size: 20px;
+  Line-height: 33px;
+  Line-height: 164%;
+  text-Align: Center;
+  Vertical-align: Center;
+  color:white;
+  opacity: 90%;
+  padding: 5px;
+}
+.imgback{
+    margin-bottom:0px
+}
+.dict1 , .dict2 , .dict3 , .dict4 , .bacopacity{
+    
+    z-index: 2;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+   padding: 0px;
+    border-radius: 12px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color:black;
+    opacity: 85%;  
+}
+.dict1{
+    background-image: url(../images/ph4.png);
+}
+.dict2{
+    background-image: url(../images/ph2.png);
+}
+.dict3{
+    background-image: url(../images/ph5.png);
+  
+}
+.bacopacity
+{
+    background-image: url(../images/opacity.png);
+    padding:70px 10px;
+    
+}
+.dict4{
+    background-image: url(../images/ph4.png);
+}
+.dict5{
+    background-image: url(../images/ph7.png);
+}
+.dict6{
+    background-image: url(../images/ph8.png);
+}
+.dict7{
+    background-image: url(../images/ph3.png);
+}
+.dict8{
+    background-image: url(../images/ph1.png);
+}
+.dict1 h2 , .dict2 h2 , .dict3 h2 , .dict4 h2 , .dict5 h2 ,.dict6 h2,.dict7 h2, .dict8 h2{
+    margin-bottom: 30px;
+    Font-family: Delius;
+Font-style: Regular;
+Line-height: 30px;
+text-Align: Left;
+Vertical-align: Top;
+}
+.dict1 .Find , .dict2 .Find , .dict3 .Find , .dict4 .Find ,.dict5 .Find , .dict6 .Find , .dict7 .Find , .dict8 .Find{
+    color: black;
+    Font-family: Assistant;
+    Font-style: Regular;
+    Font-size: 20px;
+    margin-bottom: 30px;
+}
+.dict1 span ,.dict2 span,.dict3 span,.dict4 span ,.dict5 span ,.dict6 span,.dict7 span,.dict8 span{
+    padding: 6px 15px;
+    padding-left: 3px;
+    font-size: 30px;
+    background-color: #d4d4db;
+   color: #6BBD46;
+   border-top-right-radius: 15px;
+   border-bottom-left-radius: 15px;
+   cursor: pointer;
+}
+.sq div span:hover{
+    transition: .7s;
+    position: relative;
+        top: -2px;
+  
+}
+.catag{
+    margin-top:30px
+}
+
+
+.arrivals{
+    color:#344942;
+    font-family:   Delius;
+    font-style: Regular;
+    font-size:48px;
+    text-align: center;
+    vertical-align: Center;
+    line-height: 63px;
+}
+
+.Lorem{
+    Font-family: Assistant;
+Font-style: Regular;
+Font-size: 20px;
+Line-height: 164%;
+text-Align: Center;
+Vertical-align: Center;
+color:#344942;
+opacity: 90%;
+}
+
+.img2475{
+    margin:10px auto;
+    margin-bottom: 80px;
+    
+}
+.img2475 img
+{
+    margin:auto
+}
+.img2475:hover{
+    cursor: pointer;
+    transition:all .3s linear;
+    transform:rotateY(360deg);
+}
+div .border{
+    border:1px solid #AEAFAC;
+    border-radius: 12px;
+
+}
+.layout{
+    margin-bottom: 15px;
+    padding: 0px;
+}
+.divproductname{
+    background-color:    #F1F3EF;
+    border-bottom-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    position: absolute;
+    padding:10px;
+   bottom:0px;
+   right:16px;
+   left:16px
+}
+.productName{
+  padding-top:10px;
+  padding-bottom:20px;
+  Font-family: Assistant;
+  Font-style: SemiBold;
+  Font-size: 20px;
+}
+.productName1{
+  padding-top:20px;
+  Font-family: Assistant;
+Font-style: SemiBold;
+Font-size: 20px;
+}
+.p-icon1
+{
+    margin: auto;
+    cursor: pointer;
+    margin-bottom: 20px;
+    
+}
+.p-icon1:hover
+{
+ width: 200px;
+    
+}
+.bacground-p{
+    background-color: #F1F3EF;
+    padding-top:30px ;
+    margin-bottom: 20px;
+}
+.seeaddrees{
+    Font-family: Assistant;
+Font-style: SemiBold;
+Font-size: 28px;
+line-height: 37px;
+Line-height: 100%;
+text-Align: Center;
+Vertical-align: Top;
+margin-bottom: 18px;
+}
+.ispum{
+    Font-family: Assistant;
+Font-style: SemiBold;
+Font-size: 18px;
+Line-height: 24px;
+Line-height: 100%;
+text-Align: Center;
+Vertical-align: Top;
+opacity: 94%;
+
+}
+.shopscreen{
+    margin-bottom: 20px;
+}
+.shopscreen img{
+    margin: auto;
+}
+.more{
+    text-align: center;
+    margin-top:40px;
+    margin-bottom:40px;
+}
+.m-auto{
+    margin: auto;
+    text-align: center;
+    background-color: #6BBD46;
+    border-radius: 72px;
+    padding:13px 30px;
+    font-weight: bold;
+    font-size: 18px;
+    color:white;
+    cursor: pointer;
+}
+.more .m-auto:hover{
+ transition: .6s;
+ background-color: black;
+ color:#6BBD46
+}
+.contentext{
+    font-size: 32px;
+}
+.divphone{
+    margin-top:30px
+}
+.twopart{
+   
+    padding-left:0px;
+    padding-top:10px
+    
+}
+
+
+.domest{
+    color:#6BBD46
+}
+.lor{
+    Font-family: Josefin Sans;
+Font-style: Regular;
+Font-size: 16px;
+Line-height: 24px;
+margin-left:0px;
+text-Align: Left;
+Vertical-align: Top;
+}
+.gride{
+    padding: 0px;
+}
+.gride .col-xs-4{
+    padding-left:0px
+}
+.twopart .twopicture {
+    padding: 0px;
+    margin-left: 0px;
+}
+.twopicture .ph2{
+    position: relative;
+    left:20px
+}
+.dimg {
+   background-color:  #344942;
+   color:white;
+   padding:10px;
+   margin-top:20px
+}
+.dimg span{
+  line-height: 30px;
+}
+.dimg p{
+    margin-top: 18px;
+}
+.square
+{
+    margin-top:30px
+}
+.square .imgphone:hover{
+    transition: .4s;
+    cursor: pointer;
+    transform:  rotateX(-30deg);
+    margin-top: -50px;
+}
+.lower .contactuse{
+    Font-family: Assistant;
+    Font-style: SemiBold;
+    Font-size: 24px;
+    Line-height: 31px;
+    Line-height: 100%;
+    text-Align: Left;
+    Vertical-align: Top;
+    color:#507468
+}
+.liner{
+    width:50px;
+    height:2px;
+    line-height: 30px;
+    background-color: #6BBD46;
+    color: #6BBD46;
+    margin-left:25px;
+    margin-top:10px
+}
+.divcontact{
+    margin: 0px;
+    margin-top:40px;
+    padding:0px;
+}
+.divcontact .lor , .divcontact div ul , .divcontact .icons , .divcontact .map {
+    margin-top:20px
+}
+.divcontact .lor{
+    color:rgba(52, 73, 66, 0.71)
+}
+.divcontact div ul li{
+    Font-family: Assistant;
+    Font-style: SemiBold;
+    Font-size: 20px;
+    margin-bottom: 14px;
+    Line-height: 100%;
+    text-Align: Left;
+    Vertical-align: Top;
+    color:rgba(52, 73, 66, 0.71);
+    cursor: pointer;
+}
+.divcontact div ul li:hover{
+    transition:.3s;
+    color: #6BBD46
+}
+.divcontact div ul a:hover{
+    text-decoration: none;
+}
+.icons span{
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.divcontact .icons .icon2{
+    margin-left: 20px;
+   
+ 
+}
+.divcontact .icons .icon1{
+   border-right:1px solid black;
+   margin-top:20px
+}
+.divcontact .icons .icon1 .fa-facebook  {
+  padding-right: 20px;
+}
+.icon1 .fa-twitter
+{
+    padding-right: 14px;
+}
+.icons span {
+line-height: 43px;
+color:rgba(52, 73, 66, 0.7)
+}
+.icons span:hover {
+transition: .6s;
+color:#6BBD46;
+position: relative;
+top:-5px
+}
+div .bgfotter{
+    background-color:#F1F3EF;
+   
+    padding-top:80px
+    
+}
+.lower .flotuse{
+    color:black
+}
+.bgfotter .lower{
+    margin-bottom: 30px;
+}
+.soft{
+    margin-top:80px;
+    margin-bottom: 20px;
+   color: #344942;
+   font-weight: 600px;
+   font-style: SemiBold;
+   text-align: center;
+   vertical-align: top;
+}
+/*----------BULK--------------*/
+.bulk{
+padding:50px;
+
+}
+.Bul{
+    
+ Font-family: Delius;
+Font-style: Regular;
+Font-size: 48.83px;
+Line-height: 130%;
+text-Align: Left;
+Vertical-align: Center;
+color:white;
+padding-left:100px;
+margin-bottom: 30px;
+}
+.Bulcon , .Bulcon2{
+    
+ Font-family: Delius;
+Font-style: Regular;
+Font-size: 30px;
+Line-height: 130%;
+text-Align: Left;
+Vertical-align: Center;
+color:white;
+margin-bottom: 30px;
+padding-left:100px;
+
+
+}
+
+
+.Hol{
+    padding-left:100px;
+    Font-family: Assistant;
+    Font-style: SemiBold;
+    Font-size: 18px;
+    Line-height: 170%;
+    text-Align: Left;
+    Vertical-align: Center;
+    color:white
+}
+.bulkprod{
+    margin-bottom:30px
+}
+
+.Bulkn
+{
+    margin-top: 30px;
+}
+div .bulkprod .broduc{
+    color:#344942;
+    Font-family: Delius;
+    Font-style: Regular;
+    Font-size: 48.83px;
+    Line-height: 130%;
+    text-Align: Center;
+    Vertical-align: Center;
+    font-weight: bold;
+}
+.bulkprod .ipsm{
+Font-family: Assistant;
+Font-style: Regular;
+Font-size: 20px;
+Line-height: 33px;
+Line-height: 164%;
+text-Align: Center;
+Vertical-align: Center;
+color:#344942;
+}
+/*-----------About----------*/
+.abtop{
+    margin-top:100px
+}
+ div .navg2{
+    margin-bottom: 100px;
+}
+.ab2 .you , .ab3 .you{
+    color:#6BBD46;
+    margin-bottom: 30px;
+}
+.ab2{
+    margin-top: 30px;
+}
+.ab2 .lead , .ab3 .lead{ 
+Font-family: Assistant;
+Font-style: Bold;
+Font-size: 36px;
+Line-height: 142%;
+text-Align: Left;
+Vertical-align: Top;
+Letter-spacing: 5px;
+text-transform: uppercase;
+font-weight: bold;
+
+}
+.ab2 .loremparagraph ,.ab3 .loremparagraph
+{
+ Font-family: Assistant;
+Font-style: Regular;
+Font-size: 20px;
+Line-height: 136%;
+text-Align: Left;
+Vertical-align: Top;
+color:#6C6C72
+}
+
+.arrow{
+    position: absolute;
+    left:50%;
+    top:-30px
+}
+.arrow2{
+    position: absolute;
+    right:50%;
+    top:-30px
+}
+.arrow span , .arrow2 span {
+    border-radius: 50%;
+    background-color: white;
+    color:#6BBD46;
+    margin-left:15px;
+    padding: 9px 12px ;
+    cursor: pointer;
+    border:1px solid #6BBD46;
+    font-weight: bold;
+}
+.arrow span:hover , .arrow2 span:hover{
+    transition: .5s;
+    background-color: #6BBD46;
+    color:white
+}
+.ab2 img{
+    border-radius: 24px;
+    box-shadow: 50px -50px  rgba(107, 189, 70, 0.25)   ;
+}
+.ab2 .img2{
+    border-radius: 24px;
+    box-shadow: -50px -50px  rgba(107, 189, 70, 0.25)   ;
+}
+.phot{
+    margin-top: 100px;
+}
+.phot div .lead{
+    Font-family: Delius;
+Font-style: Regular;
+Font-size: 31.25px;
+Line-height: 47.25px;
+Line-height: 120%;
+
+Vertical-align: Top;
+}
+.phot div ul{
+    display: flex;
+    justify-content: center;
+    margin-top:20px;
+    text-align: left;
+}
+.ph1{
+    background-color: rgb(255, 250, 250);
+    border-radius: 14px;
+    padding:30px 10px;
+    margin-top:30px;
+  
+}
+.ph1 ul li{
+    margin-right: 10px;
+    border-right: 1px solid black;
+    padding-right:20px;
+    padding-left:20px;
+    text-align: center;
+}
+.ph1 img{
+    margin:auto;
+    margin-bottom: 30px;
+}
+.ph1 img:hover{
+    cursor: pointer;
+    border-radius: 50%;
+    border:4px solid #6BBD46
+}
+.ph1 .lorem {
+    Font-family: Assistant;
+Font-style: Regular;
+Font-size: 16px;
+Line-height: 25px;
+Vertical-align: Top;
+margin-top:10px;
+}
+.ph1 span{
+    Font-family: Assistant;
+Font-style: SemiBold;
+Font-size: 20px;
+Line-height: 115%;
+Vertical-align: Top;
+
+}
+.ph1 h3{
+    font-weight: bold;
+}
+.ph1 ul li:hover{
+    transition: .4s;
+    color:#6BBD46;
+    margin-top: -6px;
+    cursor: pointer;
+
+}
+/*----Contact-----------*/
+.part{
+    display: flex;
+  text-align: left;
+  margin-top: 120px;
+}
+.part div ul
+{
+    display: flex;
+    margin-bottom: 30px;
+}
+.part div ul li
+{
+   margin-left:20px
+}
+.part1 .number{
+    padding-top:5px
+}
+.ab3{
+    margin-top: 100px;
+}
+.ab3 .liner{
+    width: 100px;
+    height: 1.8px;
+    background-color: #6BBD46;
+    text-align: left;
+   margin-left: 2px;
+   margin-top: -7px;
+   margin-bottom: 30px;
+}
+.part div ul li .fa
+{
+   margin-left:-20px;
+   color:#6BBD46;
+   border:1px dotted #6BBD46;
+   border-radius: 50%;;
+   padding:10px
+}
+.milelocation
+{
+    box-shadow: 30px -30px #F1F3EF;
+    border:1px dotted gray;
+    border-radius: 12px;
+    padding:20px 10px;
+    margin: auto;
+}
+.map{
+    margin-top:40px
+}
